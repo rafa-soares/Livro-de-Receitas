@@ -8,13 +8,13 @@ Nesse desafio de projeto tive a oportunidade de aprender:
 
 - Os conceitos fundamentais de objetos;
 
-- Iniciar repositório no GitHub;
+- Iniciar um repositório no GitHub;
 
 - Compreender conceitos básicos de versionamento de código;
 
 - Criar meu primeiro commit;
 
-- Move os arquivos que estão na área de staging para o repositório remoto;
+- Mover os arquivos que estão na área de staging para o repositório remoto;
 
 - Realizar atualizações de um repositório remoto;
 
