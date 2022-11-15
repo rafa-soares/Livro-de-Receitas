@@ -2,7 +2,7 @@
 
 A partir da conclusão do curso [^1], pude realizar meu primeiro repositório onde desenvolvi meu [Livro de Receitas](https://github.com/rafa-soares/Livro-de-Receitas).
 
-Nesse desafio de projeto pude aprender:
+Nesse desafio de projeto tive a oportunidade de aprender:
 
 - A diferença de Git e GitHub;
 
