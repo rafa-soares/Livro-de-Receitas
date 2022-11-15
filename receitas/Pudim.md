@@ -1,5 +1,4 @@
 # Pudim de Leite Condensado 🍮
-
 ### Ingredientes
 
 - 6 colheres de sopa de açúcar
