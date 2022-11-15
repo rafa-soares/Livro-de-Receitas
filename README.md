@@ -1,7 +1,7 @@
-# Livro de Receitas :man_cook: 
+# Livro de Receitas 👨‍🍳
 
-Olá!! Bem vindo ao meu livro de receitas.
+Olá!! Bem vindo(a) ao meu livro de receitas.
 
-- Strogonoff de Frango :chicken: 
+- [Strogonoff de Frango 🐔](https://github.com/rafa-soares/Livro-de-receitas/blob/master/receitas/strogonoff.md)
 - Pudim de Leite Condensado 🍮
 - Bolo de Cenoura com cobertura de Chocolate 🎂
