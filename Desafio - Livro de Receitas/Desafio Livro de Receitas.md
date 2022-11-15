@@ -20,19 +20,19 @@ Nesse desafio de projeto pude aprender:
 
 - Para isso, foram utilizados comandos básicos como:
 
-  1. git init 
+ 1. git init 
 
-  2. git add *
+ 2. git add *
 
-  3. git commit
+ 3. git commit
 
-  4. git push
+ 4. git push
 
-  5. git pull
+ 5. git pull
 
-  6. git status
+ 6. git status
 
-  7. etc... 
+ 7. etc... 
 
      
 
