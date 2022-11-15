@@ -19,7 +19,7 @@
 2. Acrescente 3 xícaras de farinha de trigo, aos poucos, e bata para incorporar o ingrediente. Adicione 1 colher de sopa de fermento em pó e misture suavemente.
 3. Despeje a massa em uma forma untada e enfarinhada. Leve para assar em forno preaquecido a 180 graus Celsius por 30 minutos.
 
-## Ingredientes
+### Ingredientes
 
 *Cobertura*
 
@@ -28,7 +28,7 @@
 - 10 colheres de achocolatado em pó
 - 8 colheres de açúcar
 
-## Modo de Preparo
+### Modo de Preparo
 
 *Cobertura*
 
