@@ -1,6 +1,6 @@
 # OBJETIVO 🎯
 
-A partir da conclusão do curso [^1], pude realizar meu primeiro repositório onde desenvolvi meu Livro de Receitas.
+A partir da conclusão do curso [^1], pude realizar meu primeiro repositório onde desenvolvi meu [Livro de Receitas](https://github.com/rafa-soares/Livro-de-Receitas).
 
 Nesse desafio de projeto pude aprender:
 
@@ -20,7 +20,7 @@ Nesse desafio de projeto pude aprender:
 
 - Para isso, foram utilizados comandos básicos como:
 
-  1. git init
+  1. git init 
 
   2. git add *
 
