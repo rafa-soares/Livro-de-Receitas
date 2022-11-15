@@ -8,5 +8,5 @@ Olá!! Bem vindo(a) ao meu livro de receitas[^1].
 
 
 
-[^1]: ➤ [Saiba mais](https://github.com/rafa-soares/Livro-de-Receitas/blob/master/Desafio%20-%20Livro%20de%20Receitas/Desafio%20Livro%20de%20Receitas.md)
+[^1]: ➤ [Saiba mais](https://github.com/rafa-soares/Livro-de-Receitas/blob/master/Saiba%20mais/Saiba%20mais.md)
 
