@@ -1,5 +1,4 @@
-# Strogonoff de Frango 🐔
-
+# Strogonoff de Frango :chicken: 
 ### Ingredientes
 
 - 3 colheres de sopa de óleo
